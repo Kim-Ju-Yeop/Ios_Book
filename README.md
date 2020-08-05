@@ -1,2 +1,2 @@
 # Ios_Book
-This space is review what I learned in Ios-Programming
+Do it 스위프트로 아이폰 앱 만들기 책을 통해 공부하면서 배운 내용을 복습하는 공간입니다.

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59A9468D-A7B8-4C59-BD33-A222CC064889"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EF07C40-B2A2-4485-A453-00447AE71E47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlarmDatePicker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59">
+            <Locations>
+               <Location
+                  uuid = "8EF07C40-B2A2-4485-A453-00447AE71E47 - 13428179a3f73d63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlarmDatePicker.ViewController.interval.getter : Swift.Double"
+                  moduleName = "AlarmDatePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jueyop/Develop/Xcode/AlarmDatePicker/AlarmDatePicker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "8EF07C40-B2A2-4485-A453-00447AE71E47 - 40b07f9890d2ef6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlarmDatePicker.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlarmDatePicker.ViewController"
+                  moduleName = "AlarmDatePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jueyop/Develop/Xcode/AlarmDatePicker/AlarmDatePicker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  uuid = "8EF07C40-B2A2-4485-A453-00447AE71E47 - da07566135588a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlarmDatePicker.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlarmDatePicker.ViewController&gt;"
+                  moduleName = "AlarmDatePicker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jueyop/Develop/Xcode/AlarmDatePicker/AlarmDatePicker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
